@@ -2,7 +2,7 @@
 - 👀 I’m interested in [idk]
 - 🌱 I’m currently learning {degree}
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me {speechlessgamer31@gmail.com
+- 📫 How to reach me {speechlessgamer31@gmail.com}
 - ⚡ Fun fact:qwerty is a great name for a pet
 
 <!---
